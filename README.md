@@ -34,11 +34,11 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 ![n8n](https://img.shields.io/badge/-n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 ![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=default)
-
+-->
 ---
 
 ## 📫 Onde me encontrar
