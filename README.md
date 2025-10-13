@@ -42,7 +42,24 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
 
+))))))))
+![Next.Js](https://img.shields.io/badge/-Next.Js-000000?style=flat&logo=next.js&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-00A0F3?style=flat&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF0077?style=flat&logo=heart&logoColor=white)
+![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?style=flat&logo=deepin&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-F97F65?style=flat&logo=asana&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Copilot](https://img.shields.io/badge/-Copilot-00A9E0?style=flat&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![IA](https://img.shields.io/badge/-IA-FF69B4?style=flat&logo=tensorflow&logoColor=white)
+![Agentes](https://img.shields.io/badge/-Agentes-000000?style=flat&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-05990D?style=flat&logo=dagster&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1B903E?style=flat&logo=langchain&logoColor=white)
 
+))))))))
 ---
 <!-- 
 ## 📊 GitHub Stats
