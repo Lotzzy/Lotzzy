@@ -31,14 +31,14 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -55,15 +55,12 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F97F65?style=flat&logo=asana&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-7C40E5?style=flat&logo=obsidian&logoColor=white)
+
 ![Cursor](https://img.shields.io/badge/-Cursor-00A0F3?style=flat&logo=cursor&logoColor=white)
 ![Lovable](https://img.shields.io/badge/-Lovable-FF0077?style=flat&logo=heart&logoColor=white)
 
-))))))))
-
-![Notebook LM](https://img.shields.io/badge/-Notebook%20LM-4285F4?style=flat&logo=google&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-
-))))))))
 ---
 <!-- 
 ## 📊 GitHub Stats
