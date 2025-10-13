@@ -43,10 +43,10 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![IA](https://img.shields.io/badge/-IA-FF69B4?style=flat&logo=tensorflow&logoColor=white)
+![Agentes](https://img.shields.io/badge/-Agentes-000000?style=flat&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1B903E?style=flat&logo=langchain&logoColor=white)
-![IA](https://img.shields.io/badge/-IA-FF69B4?style=flat&logo=tensorflow&logoColor=white)
 
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?style=flat&logo=deepin&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-603991?style=flat&logo=google-gemini&logoColor=white)
