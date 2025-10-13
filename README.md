@@ -60,10 +60,8 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 
 ))))))))
 
-![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)
-
-
-![Agentes](https://img.shields.io/badge/-Agentes-000000?style=flat&logo=openai&logoColor=white)
+![Notebook LM](https://img.shields.io/badge/-Notebook%20LM-4285F4?style=flat&logo=google&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ))))))))
 ---
