@@ -9,9 +9,16 @@
 
 ## 🧠 Sobre mim
 
-Graduando de Engenharia Ambiental e Sanitária na Universidade Federal de Juiz de Fora (UFJF), o curso me trouxe uma perspectiva única sobre a interação entre as pessoas e o ambiente. Além dos saberes tradicionais das engenharias — como o planejamento de projetos, raciocínio lógico e avaliação de riscos — desenvolvi competências para lidar com temas como gestão ambiental, legislação, educação e qualidade de vida.
+Desenvolvedor de Soluções e Entusiasta de Automação, aplicando a visão sistêmica da Engenharia para criar processos mais inteligentes.
+
+Minha jornada profissional começou na Engenharia Ambiental e Sanitária (UFJF), onde desenvolvi uma base sólida em análise de sistemas complexos, gestão de projetos e otimização de processos. Foi essa visão que despertou meu interesse em resolver problemas de forma mais escalável, levando-me a mergulhar no universo da tecnologia.
 
 🚀 Nos últimos tempos, mergulhei no campo da **tecnologia**, estudando através da própria UFJF, bootcamps e cursos online. Essa jornada me apresentou ao **JavaScript** (tanto no **front-end com HTML e CSS**, quanto no **back-end com Node.js**), além de tecnologias como **TypeScript**, **React.js**, **SQL**, **Python (com Pandas)**, **C++** e ferramentas de automação como o **n8n**.
+
+ E tendo como meu foco principal: 
+  • Automação de Processos: Utilizando ferramentas como n8n para criar fluxos de trabalho inteligentes e reduzir tarefas manuais.
+  • Desenvolvimento Low-Code/No-Code: Explorando plataformas como Supabase para acelerar a criação de aplicações robustas.
+  • Inteligência Artificial Generativa: Aplicando técnicas de Engenharia de Prompts e explorando o potencial de RAG (Retrieval Augmented Generation) para construir agentes mais eficazes.
 
 🧩 Minhas principais competências incluem **comunicação clara**, **curiosidade digital**, **adaptabilidade** e uma abordagem analítica — alinhadas com as demandas do cenário tecnológico em constante mudança.
 
