@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Raphael!
 
-🎓 **Graduando de Engenharia Ambiental e Sanitária** pela **UFJF**  
+🎓 **Desenvolvedor de Soluções e Entusiasta de Automação** e **Graduando de Engenharia Ambiental e Sanitária** pela **UFJF**  
 💻 Entusiasta de tecnologia em jornada contínua de aprendizado  
 🌱 Explorando as conexões entre sustentabilidade, automação e inovação  
 🌍 Falante de Português 🇧🇷 | Inglês 🇬🇧 (B2/C1) | Espanhol 🇪🇸 (A1/A2)
@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor de Soluções e Entusiasta de Automação, aplicando a visão sistêmica da Engenharia para criar processos mais inteligentes.
+Como um entusiasta de Automação, aplico a visão sistêmica da Engenharia para criar processos mais inteligentes.
 
 Minha jornada profissional começou na Engenharia Ambiental e Sanitária (UFJF), onde desenvolvi uma base sólida em análise de sistemas complexos, gestão de projetos e otimização de processos. Foi essa visão que despertou meu interesse em resolver problemas de forma mais escalável, levando-me a mergulhar no universo da tecnologia.
 
