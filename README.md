@@ -22,16 +22,12 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-5A189A?style=flat&logo=knowledgebase&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -48,6 +44,8 @@ Ultimamente, meu radar está bem atento às **inteligências artificiais e autom
 ![Agentes](https://img.shields.io/badge/-Agentes-000000?style=flat&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1B903E?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-5A189A?style=flat&logo=knowledgebase&logoColor=white)
+
 
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?style=flat&logo=deepin&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-603991?style=flat&logo=google-gemini&logoColor=white)
